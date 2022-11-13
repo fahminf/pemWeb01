@@ -1,0 +1,47 @@
+.kotak1{
+    width: 1250px;
+    height: 100px;
+    margin-left: 20px;
+    border: solid;
+    background-color: mediumseagreen;
+}
+
+.box{
+    float: left;
+}
+
+.kotak2{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 40px;
+    border: solid;
+    background-color: yellow;
+}
+
+.kotak3{
+    width: 200px;
+    height: 150px;
+    margin-left: 20px;
+    margin-top: 60px;
+    border: solid;
+    background-color: yellow;
+}
+
+.kotak4{
+    width: 970px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: 40px;
+    border: solid;
+    background-color: orangered;
+}
+
+.kotak5{
+    width: 970px;
+    height: 150px;
+    margin-left: 300px;
+    margin-top: 60px;
+    border: solid;
+    background-color: cyan;
+}
